@@ -7,7 +7,7 @@
 
 ### Links
 
-[title](http://destination)
+Click to view the [Challenge page](http://challenge.mime.studio/)
 
 ### Acknowledgements
 
