@@ -1,4 +1,12 @@
-## Placeholder page for the code challenge
+## Feisal Patel
+
+**Date:** Sun, 25 November
+**Time:** 3pm GMT
+
+### Code challenge Page
+
+A brief overview of the project made available here to allow focus on
+the main code challenge.
 
 ### Summary
 
@@ -7,7 +15,7 @@
 
 ### Links
 
-Click to view the [Challenge page](http://challenge.mime.studio/)
+If called for, this page will be used as the [Challenge page](https://challenge-20181123.herokuapp.com/)
 
 ### Acknowledgements
 
